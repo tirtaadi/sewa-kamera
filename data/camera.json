@@ -1,0 +1,62 @@
+{
+
+  "status": true,
+  "message": "Success get camera",
+  "data": [
+      {
+          "ID_CAMERA": "15",
+          "NAMA_CAMERA": "Nikon 50D",
+          "MERK_CAMERA": "Nikon",
+          "DESKRIPSI_CAMERA": "Nikon camera bagus",
+          "TAHUN_CAMERA": "2020",
+          "KAPASITAS_CAMERA": "4",
+          "HARGA_CAMERA": "200000",
+          "WARNA_CAMERA": "hitam",
+          "TIPE_CAMERA": "1",
+          "NO_SERI_CAMERA": "123AS12123",
+          "STATUS_SEWA": "0",
+          "STATUS_CAMERA": "1",
+          "CREATED_CAMERA": "2021-01-06 02:47:19",
+          "IMAGE": [
+              "c10d.jpg"
+          ]
+      },
+      {
+          "ID_CAMERA": "16",
+          "NAMA_CAMERA": "Canon 70D",
+          "MERK_CAMERA": "Canon",
+          "DESKRIPSI_CAMERA": "Canon camera bagus",
+          "TAHUN_CAMERA": "2020",
+          "KAPASITAS_CAMERA": "5",
+          "HARGA_CAMERA": "200000",
+          "WARNA_CAMERA": "hitam",
+          "TIPE_CAMERA": "1",
+          "NO_SERI_CAMERA": "123ASD12123a",
+          "STATUS_SEWA": "0",
+          "STATUS_CAMERA": "1",
+          "CREATED_CAMERA": "2021-01-06 04:30:44",
+          "IMAGE": [
+              "c600d"
+          ]
+      },
+      {
+          "ID_CAMERA": "14",
+          "NAMA_CAMERA": "CANON 60D",
+          "MERK_CAMERA": "CANON",
+          "DESKRIPSI_CAMERA": "CANON 60D merupakan kamera dslr yang sudah banya memiliki fitur menarik",
+          "TAHUN_CAMERA": "2018",
+          "KAPASITAS_CAMERA": "2",
+          "HARGA_CAMERA": "6000000",
+          "WARNA_CAMERA": "Black",
+          "TIPE_CAMERA": "1",
+          "NO_SERI_CAMERA": "67845231900",
+          "STATUS_SEWA": "0",
+          "STATUS_CAMERA": "1",
+          "CREATED_CAMERA": "2020-12-21 00:00:00",
+          "IMAGE": [
+              "c60d.jpg"
+          ]
+      }
+  ]
+
+}
